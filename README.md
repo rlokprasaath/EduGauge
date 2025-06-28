@@ -19,13 +19,13 @@ Average score is calculated.
 Based on score thresholds, learner level is assigned.
 
 ### Tech Stack
---------------------------------------------
+
 Layer         Tools Used
---------------------------------------------
+
 Language      Python
 Frontend	    Streamlit
 AI Model	    sentence-transformers (MiniLM)
 Similarity	  scikit-learn (cosine similarity)
 Hosting	      Streamlit Cloud + GitHub
---------------------------------------------
+
 
