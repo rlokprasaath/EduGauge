@@ -19,13 +19,23 @@ Average score is calculated.
 Based on score thresholds, learner level is assigned.
 
 ### Tech Stack
+|-------------------------------------------------|
+| Layer      |   Tools Used                       |
+|-------------------------------------------------|
+|Language    |   Python                           |
+|Frontend	   |  Streamlit                         |
+|AI Model	   |   sentence-transformers (MiniLM)   |
+|Similarity  |   scikit-learn (cosine similarity) |
+|Hosting	   |   Streamlit Cloud + GitHub         |
+|-------------------------------------------------|
 
-Layer         Tools Used
+###  Installation
+git clone https://github.com/your_username/ai-learner-type-predictor.git
+cd ai-learner-type-predictor
+pip install -r requirements.txt
+streamlit run app.py
 
-Language      Python
-Frontend	    Streamlit
-AI Model	    sentence-transformers (MiniLM)
-Similarity	  scikit-learn (cosine similarity)
-Hosting	      Streamlit Cloud + GitHub
-
-
+### Project Structure
+├── app.py              # Main Streamlit app
+├── requirements.txt    # Dependencies
+└── README.md           # You're here!
