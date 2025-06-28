@@ -30,9 +30,7 @@ Average score is calculated.
 Based on score thresholds, learner level is assigned.
 
 
-### Tech Stack
-Layer     -    Tools Used                       
-
+### Tech Stack                
 Language   -    Python
 
 Frontend	 -   Streamlit
@@ -46,19 +44,17 @@ Hosting	    -  Streamlit Cloud + GitHub
 
 
 ###  Installation
-git clone https://github.com/your_username/ai-learner-type-predictor.git
+git clone https://github.com/rlokprasaath/EduGauge.git
 
-cd ai-learner-type-predictor
-
-pip install -r requirements.txt
+pip install streamlit
 
 streamlit run app.py
 
 
 ### Project Structure
-├── app.py              # Main Streamlit app
+├── app.py              
 
-├── requirements.txt    # Dependencies
+├── requirements.txt    
 
-└── README.md           # You're here!
+└── README.md           
 
