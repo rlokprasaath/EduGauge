@@ -31,17 +31,17 @@ Based on score thresholds, learner level is assigned.
 
 
 ### Tech Stack
-### Layer         Tools Used                       
+Layer     -    Tools Used                       
 
-Language       Python
+Language   -    Python
 
-Frontend	     Streamlit
+Frontend	 -   Streamlit
 
-AI Model	      sentence-transformers (MiniLM)   
+AI Model	 -     sentence-transformers (MiniLM)   
 
-Similarity     scikit-learn (cosine similarity) 
+Similarity  -   scikit-learn (cosine similarity) 
 
-Hosting	      Streamlit Cloud + GitHub         
+Hosting	    -  Streamlit Cloud + GitHub         
 
 
 
