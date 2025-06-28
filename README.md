@@ -5,11 +5,11 @@ An AI-powered app to predict learner skill level using NLP
 Learnalyze brings personalization into education by analyzing user-submitted free-text answers to AI/ML/DL/GenAI questions. Instead of relying on MCQs, it uses semantic understanding to measure actual conceptual clarity.
 
 ### Key Features
-Open-ended input for deeper knowledge assessment
-NLP-powered sentence embeddings using sentence-transformers
-Cosine similarity to measure understanding
-Learner classification (Beginner / Intermediate / Advanced)
-Web interface built with Streamlit and hosted online
+Open-ended input for deeper knowledge assessment.
+NLP-powered sentence embeddings using sentence-transformers.
+Cosine similarity to measure understanding.
+Learner classification (Beginner / Intermediate / Advanced).
+Web interface built with Streamlit and hosted online.
 
 ### How It Works
 User answers 10 AI-related questions in free text.
